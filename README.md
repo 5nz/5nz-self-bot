@@ -25,4 +25,4 @@ To get started with 5nz selfbot, follow these simple steps:
 
 ## Credits
 
-This self-bot was created by 5nz. Feel free to contact me on discord for help @5nzzzz
+- `This self-bot was created by 5nz. Feel free to contact me on discord for help @5nzzzz`
