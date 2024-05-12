@@ -1,9 +1,10 @@
 # 5NZ SELFBOT V1
 
-#Screen Shots
-https://cdn.discordapp.com/attachments/1040122185114714192/1239160204881563689/image.png?ex=6641e95f&is=664097df&hm=42a83b4f5825e0583ad55b4127b0367b5cdeb353d0ad707daacd001c167087f7&
+## Screenshots
 
-# How to Run 5nz selfbot
+![Screenshot](https://cdn.discordapp.com/attachments/1040122185114714192/1239160204881563689/image.png?ex=6641e95f&is=664097df&hm=42a83b4f5825e0583ad55b4127b0367b5cdeb353d0ad707daacd001c167087f7&)
+
+## How to Run 5nz selfbot
 
 To get started with 5nz selfbot, follow these simple steps:
 
@@ -21,3 +22,7 @@ To get started with 5nz selfbot, follow these simple steps:
 
  ## Showcase
 - Click [here](https://streamable.com/0554zx) For Showcase.
+
+## Credits
+
+This self-bot was created by 5nz. Feel free to contact me on discord for help @5nzzzz
